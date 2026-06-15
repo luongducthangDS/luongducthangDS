@@ -72,12 +72,6 @@ Strengthening portfolio around production-ready AI/data applications:
 - safe tool-calling agent architectures for data analysis automation;
 - improving deployment practices (Docker, Railway, observability with LangSmith).
 
-## GitHub Snapshot
-
-<p align="left">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=luongducthangDS&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongducthangDS&layout=compact&hide_border=true&langs_count=8">
-</p>
 
 ## Connect
 
